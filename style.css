@@ -1,4 +1,4 @@
-<style>
+
   @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 body {
@@ -148,4 +148,3 @@ li a {
 @media (min-height: 350px) .ulnavbar{
   font-size: 23px;
 }
- </style>

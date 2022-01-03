@@ -1,5 +1,7 @@
 
 
+  @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 .rotated {
   transform: rotate(-45deg); /* Equal to rotateZ(45deg) */
   background-color: yellow;

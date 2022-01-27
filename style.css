@@ -9,7 +9,7 @@ section {
 }
 .rotate {
 
-  transform: rotate(-90deg);
+  transform: rotate(-45deg);
 }
 .hero {
     background-color: #1c1d25;

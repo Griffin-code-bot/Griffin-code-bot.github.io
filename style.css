@@ -61,7 +61,6 @@ p {
     font-weight: 300px;
 }
 
-@media only screen and (max-width: 1000px) {
 .hero-area {
     display: flex;
 
@@ -69,10 +68,11 @@ p {
     justify-content: space-between;
     align-items: center
 }
-}
+@media only screen and (max-width: 1000px) {
 .hero-text {
     margin-left: 80px;
     margin-bottom: 200px;
+}
 }
 .button {
     width: 200px;

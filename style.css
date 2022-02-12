@@ -61,14 +61,14 @@ p {
     font-weight: 300px;
 }
 
-
+@media only screen and (max-width: 1000px) {
 .hero-area {
     display: flex;
 
     height: 100%;
     justify-content: space-between;
-    align-items: center;
-    
+    align-items: center
+}
 }
 .hero-text {
     margin-left: 80px;

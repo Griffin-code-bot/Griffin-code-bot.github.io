@@ -139,4 +139,11 @@
 
 
 </body>
+    
+<script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+<script async src="https://api.countapi.xyz/hit/shubhamgcode.com/visits?callback=cb"></script>
 </html> 

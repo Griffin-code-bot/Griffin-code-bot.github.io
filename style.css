@@ -198,14 +198,7 @@ nav {
     color: black;
 }
 
-
-.counter {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  
-  margin: 1rem auto;
-  padding: 10px;
-  margin-left: 800px;
-  margin-right: 400px;
+#visits{
+    margin-left: 500px;
 }
+.

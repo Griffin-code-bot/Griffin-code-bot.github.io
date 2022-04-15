@@ -26,10 +26,6 @@ footer {
     text-align: center;
 }
 
-footer p {
-font-size: 5vw;
-}
-
 nav {
     display: flex;
     justify-content: space-between;

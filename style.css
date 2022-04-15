@@ -176,12 +176,6 @@ a {
 }
 
 
-
-}
-
-
-
-
 ul {
     display: none;
     background-color: #2b2c38;
@@ -209,4 +203,7 @@ nav {
     background-color: red;
     
 }
-.
+
+.email {
+    font-size: 5vw
+}

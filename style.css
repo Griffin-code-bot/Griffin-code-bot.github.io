@@ -177,27 +177,10 @@ a {
 
 
 
-@media only screen and (min-width:601px) {
-h1 {
-    font-size: 90px;
-    }
- p.email {
-     font-size: 30px;
-
 }
 
 
-@media only screen and (max-width: 600px) {
-    h1 {
-        font-size: 45px;
-    }
-    
-    p.email {
-        font-size: 15px;
-    }
-    
-    
-}
+
 
 ul {
     display: none;

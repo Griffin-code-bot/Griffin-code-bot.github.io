@@ -204,6 +204,7 @@ ul.show {
     display: block;
     width: 40vw;
     overflow: hidden;
+    background-color: yellow;
 }
 
 

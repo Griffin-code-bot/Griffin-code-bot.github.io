@@ -17,7 +17,7 @@ section {
     font-size: 40px;
 }
 
-.green {
+div.green {
     background-color: red;
     color: white;
     text-align: center;

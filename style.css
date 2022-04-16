@@ -21,19 +21,21 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-ul { 
+  ul { 
     display: flex;
     list-style-type: none;
     font-size: 30px;
     justify-content: space-around;
     width: 500px
-}
+}  
+
+
 
 li {
     text-decoration: none;
 }
 h1 {
-    font-size: 10vw;
+    font-size: 5vw;
     margin: 0;
 }
 
@@ -41,10 +43,20 @@ h2 {
     font-size: 50px;
 }
 
+
+
+
+#frontend {
+    
+    font-size: 2.5vw;
+}
+    
+    
 p {
     margin: 0;
     font-size: 30px;
     font-weight: 100;
+
 }
 
 .subtext {
@@ -65,14 +77,16 @@ p {
     }
 
 .button {
-    width: 200px;
-    height: 55px;
-    border-radius: 30px;
+    width: 7vw;
+    height: 3.5vw;
+    border-radius: 3vw;
     background-color: coral;
     text-align: center;
-    font-size: 30px;
+    font-size: 1vw;
     font-weight: 100;
-    padding-top: 5px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 2.5px;
     margin-top: 20px;
 }
 
@@ -164,17 +178,21 @@ a {
         margin: 20px;
         align-self: flex-end;
     }
-}
 
 
-ul {
-    display: none;
-    background-color: #2b2c38;
-    margin: 0px;
-}
 
-ul.show {
-    display: block;
+    ul {
+        display: none;
+        background-color: #2b2c38;
+        margin: 0px;
+    }
+ 
+    .logo{
+        display:none;
+    }
+
+   
+
 }
 
 nav { 
@@ -182,9 +200,13 @@ nav {
     flex-direction: column-reverse;
 }
 
-.logo{
-    display:none;
+ul.show {
+    display: block;
 }
+
+
+
+
 
 .btn1 {
     color: black;
@@ -198,4 +220,8 @@ nav {
 color: white;
 }
 
-
+footer{
+    height: 500px;
+    background-color: black;
+    color: white;
+}

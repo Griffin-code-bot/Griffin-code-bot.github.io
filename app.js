@@ -1,4 +1,4 @@
-/*  
+
 const hamburgerButton = document.getElementById('hamburger')
 const navList = document.getElementById('nav-list')
 
@@ -8,8 +8,7 @@ function toggleButton() {
 
 hamburgerButton.addEventListener('click', toggleButton)
 
- */
-
+ 
 
 var xhr = new XMLHttpRequest();
 xhr.open("GET", "https://api.countapi.xyz/hit/shubhamgcode.com/visits");

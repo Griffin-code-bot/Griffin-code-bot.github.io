@@ -17,14 +17,6 @@ section {
     font-size: 40px;
 }
 
-div.green {
-    background-color: red;
-    color: white;
-    text-align: center;
-    height: 100%;
-  
-}
-
 nav {
     display: flex;
     justify-content: space-between;
